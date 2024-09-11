@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/855788229.svg)](https://zenodo.org/doi/10.5281/zenodo.13748639)
 # BehaviorDEPOT_Visualizations
 This Repo contains Matlab scripts to aid in visualizing data output from BehaviorDEPOT.
 

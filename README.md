@@ -120,6 +120,8 @@ close(outputVideo);
 |A.|B.|
 |---|---|
 |![Figure 2](https://github.com/user-attachments/assets/f9797591-c868-401a-b8cd-19629d83ec92)| ![Figure 3](https://github.com/user-attachments/assets/c51a4868-e8b8-48dd-97d8-53e2c407fb71)|
+|**Animation of Freezing Behavior:**|![Untitled video](https://github.com/user-attachments/assets/46eb3704-0bb7-42bf-a8f2-37432fd88cae)|
+
 
 
 # Visulaizing Body Part Data as an animation
